@@ -1,1 +1,7 @@
 #GitHubRepoAssignment
+
+I should have done a bit better job at writing my steps as I went, lol.
+
+I created a new directory in the terminal with the mkdir command, initialized. Then, I logged into GitHub and basically followed the instructions for creating a readme file from Git and used this in the GitBash terminal, pushed to origin after updating my password.
+
+Did the same thing for this text file. Now I'm saving the file. :)
